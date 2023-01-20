@@ -4,7 +4,10 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: aqua;
+}
+
+body {
+    background: linear-gradient(#eaeaee,rgb(77, 73, 73));
 }
 
 .container {
