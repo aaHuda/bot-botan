@@ -39,6 +39,7 @@ button {
     margin-top: 10px;
     font-weight: 600;
     color: #eaeaee;
+    border-radius: 6px;
 }
 
 input {
@@ -50,4 +51,5 @@ input {
     font-size: 20px;
     margin-top: 10px;
     height: 55px;
+    border-radius: 5px;
 }
